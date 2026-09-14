@@ -3,31 +3,31 @@ border: 3px solid red;
 }
 #a{
     background-color:rgb(118, 57, 168);
-    border-radius: 10%;
+    border-radius: 100%;
     padding: 5px;
     margin:  5px;
 }
 #b{
     background-color:rgb(156, 241, 199);
-    border-radius: 10%;
+    border-radius: 100%;
     padding: 5px;
     margin:  5px;
 }
 #c{
     background-color:rgb(145, 170, 250);
-    border-radius: 10%;
+    border-radius: 100%;
     padding: 5px;
     margin:  5px;
 }
 #d{
     background-color:rgb(255, 123, 0);
-    border-radius: 10%;
+    border-radius: 100%;
     padding: 5px;
     margin:  5px;
 }
 #e{
     background-color:rgb(121, 172, 175);
-    border-radius: 10%;
+    border-radius: 100%;
     padding: 5px;
     margin:  5px;
 }
