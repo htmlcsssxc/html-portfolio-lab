@@ -5,7 +5,7 @@ border: 3px solid red;
     background-color:rgb(118, 57, 168);
     border-radius: 3%;
     padding: 5px;
-    margin:  5px;
+    margin:  15px;
     border:  5px solid rgb(102, 6, 43);
 }
 #b{
@@ -38,5 +38,5 @@ th,td{
 #Xavier{
     background-color: brown;
     border: 5px solid black;
-    
+
 }
